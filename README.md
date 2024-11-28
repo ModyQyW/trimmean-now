@@ -1,29 +1,10 @@
-# Rsbuild Project
+# Trimmean Now 🏃
 
-## Setup
+[Website](https://trimmean-now.modyqyw.top)
 
-Install the dependencies:
+**For my personal usage. Use at your own risk.**
 
-```bash
-pnpm install
-```
-
-## Get Started
-
-Start the dev server:
-
-```bash
-pnpm dev
-```
-
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+- [react](https://react.dev/)
+- [primereact](https://primereact.org/)
+- [tailwindcss](https://tailwindcss.com/)
+- [rsbuild](https://rsbuild.dev/)
