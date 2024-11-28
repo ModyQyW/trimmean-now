@@ -1,6 +1,8 @@
 @layer tailwind-base, primereact, tailwind-utilities;
 
-@import "primereact/resources/themes/lara-light-blue/theme.css";
+/* https://github.com/web-infra-dev/rspack/issues/8489 */
+/* @import "primereact/resources/themes/lara-light-blue/theme.css"
+  layer(primereact); */
 
 @layer tailwind-base {
   @tailwind base;
